@@ -59,3 +59,10 @@ npm install @react-navigation/native-stack
 
 Menú inferior con iconos:
 npm install @react-navigation/material-bottom-tabs react-native-paper react-native-vector-icons
+
+
+Configuración de la Solicitud HTTP
+Utilizaremos la biblioteca axios para realizar solicitudes HTTP a la API. Si no la tienes instalada, puedes agregarla usando npm:
+```bash
+npm install axios
+```
